@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+venv_name/
+
+# Output and generated files
+output/
+*.png
+*.h5
+*.pb
+*.csv
+
+# PyCache
+__pycache__/
+*.pyc
+
+# VS Code and OS files
+.vscode/
+.DS_Store
+Thumbs.db
