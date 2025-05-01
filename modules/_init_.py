@@ -15,7 +15,7 @@ A machine learning system that uses satellite imagery to predict poverty levels.
 """
 
 __version__ = '0.1.0'
-__author__ = 'AI Development Team'
+__author__ = 'Chhavi'
 
 
 
